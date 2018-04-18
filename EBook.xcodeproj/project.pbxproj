@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A3DD21620872A9800D592B6 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A3DD21520872A9700D592B6 /* crayon_1-1.ttf */; };
 		0A9259902077447C00AB6F40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A92598F2077447C00AB6F40 /* AppDelegate.swift */; };
 		0A9259922077447C00AB6F40 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9259912077447C00AB6F40 /* ViewController.swift */; };
 		0A9259952077447C00AB6F40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A9259932077447C00AB6F40 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A3DD21520872A9700D592B6 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = SOURCE_ROOT; };
 		0A92598C2077447C00AB6F40 /* EBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A92598F2077447C00AB6F40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0A9259912077447C00AB6F40 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				0A92598F2077447C00AB6F40 /* AppDelegate.swift */,
 				0A9259912077447C00AB6F40 /* ViewController.swift */,
 				0A9259932077447C00AB6F40 /* Main.storyboard */,
+				0A3DD21520872A9700D592B6 /* crayon_1-1.ttf */,
 				0A9259962077447E00AB6F40 /* Assets.xcassets */,
 				0A9259982077447E00AB6F40 /* LaunchScreen.storyboard */,
 				0A92599B2077447E00AB6F40 /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A3DD21620872A9800D592B6 /* crayon_1-1.ttf in Resources */,
 				0A92599A2077447E00AB6F40 /* LaunchScreen.storyboard in Resources */,
 				0A9259972077447E00AB6F40 /* Assets.xcassets in Resources */,
 				0A9259952077447C00AB6F40 /* Main.storyboard in Resources */,
